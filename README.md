@@ -13,7 +13,7 @@
 **Data Analytics | Machine Learning | AI Research | LLM Applications**
 
 - 📧 Email: [mohammedluqmaan29@gmail.com](mailto:mohammedluqmaan29@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 💼 LinkedIn: [www.linkedin.com/in/mohammed-luqmaan-6a9114218](www.linkedin.com/in/mohammed-luqmaan-6a9114218)  
 - 🌐 Portfolio: Coming soon...
 
 > *"Always building, always learning. Let’s create something impactful together!"*
