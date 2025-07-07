@@ -12,7 +12,7 @@
 📍 Based in Bengaluru | 💼 Open to Internships / Entry-Level Roles in:  
 **Data Analytics | Machine Learning | AI Research | LLM Applications**
 
-- 📧 Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)  
+- 📧 Email: [mohammedluqmaan29@gmail.com](mailto:mohammedluqmaan29@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 - 🌐 Portfolio: Coming soon...
 
