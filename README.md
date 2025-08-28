@@ -17,14 +17,13 @@
 ---
 
 ## 🚀 Featured Projects
-- 📱 **Phonix** – Smartphone Recommender using Streamlit, LLMs & real-time DB integration  
 - 🤖 **Fitness Chatbot (RAG-based)** – Personalized workout & diet chatbot using LangChain + FAISS + Groq API  
 - 🍳 **Recipe Agent** – AI-powered Recipe Agent using AGNO + Groq API + Streamlit  
 - ✈️ **Triptacticx** – Multi-Agent Travel Planner with automated itineraries & email delivery  
-- 🧪 **Toxic Comment Detection** – NLP Pipeline with Flask + Docker  
+- 🧪 **Toxic Comment Detection** – NLP Pipeline to classify Social Media Comments.  
 - ⚡ **Obesity Prediction** – Comparative ML models (Random Forest vs Neural Networks)  
 - 📊 **IPL & Nutrition Dashboards** – Interactive BI dashboards for analytics and decision-making  
-
+- 📱 **Phonix** – Smartphone Recommender using Streamlit, LLMs & real-time DB integration  
 ---
 
 ## 🎓 Education
